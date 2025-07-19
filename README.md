@@ -98,7 +98,7 @@ We’re open to mentorship, collaboration, and co-development opportunities. Let
 ## 📬 Contact
 
 For support, partnership or mentorship:
-- 📧 Email: [youremail@example.com]
+- 📧 Email: syashaswini033@gmail.com
 - 🌐 Project Link: [https://lovable.dev/projects/41394e4b-1042-4d7b-a849-508567281e7c](https://lovable.dev/projects/41394e4b-1042-4d7b-a849-508567281e7c)
 
 ---
