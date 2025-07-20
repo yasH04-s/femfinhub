@@ -85,7 +85,6 @@ To **enable financial inclusion** for women entrepreneurs through:
 
 - **Challenge**: Udyam Mahila Ideathon
 - **Theme**: Bridging the Gender Gap in Access to Finance
-- **Special Categories**: 4th Prize, 5th Prize, Special Consolation
 
 ---
 
